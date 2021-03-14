@@ -1,6 +1,6 @@
 
 w = int(input("Insert Wight "))
-h = float(input("Insert Hight 75"))
+h = float(input("Insert Hight "))
 
 bmi = w/(h*h)
 
